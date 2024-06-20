@@ -1,17 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [HTTP Response Status Codes](#http-response-status-codes)
-  - [Responses are grouped in five classes:](#responses-are-grouped-in-five-classes)
-  - [1. Informational Responses (100 – 199)](#1-informational-responses-100--199)
-  - [2. Successful Responses (200 – 299)](#2-successful-responses-200--299)
-  - [3. Redirection Messages (300 – 399)](#3-redirection-messages-300--399)
-  - [4. Client Error Responses (400 – 499)](#4-client-error-responses-400--499)
-  - [5. Server Error Responses (500 – 599)](#5-server-error-responses-500--599)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 
 
 - [HTTP Response Status Codes](#http-response-status-codes)
